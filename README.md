@@ -14,4 +14,3 @@ The real cheatsheet and explanations will be in **env/README.md** file.<br>
 Just as a side note, i use Linux Mint for OS. but for HTML, doesn't matter that much... <br>
 
 #### Hopefully Learn and Enjoy
-# HTML5_Notes
